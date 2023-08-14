@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitHubDemos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bdbe5df-677c-46aa-b2af-bff509ab4dfd",
+		"tenantId": "707118c9-65c0-45b3-a435-33efe37cf0cc"
+	}
+}
